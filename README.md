@@ -9,8 +9,8 @@ A Node.JS module, which provides an object oriented wrapper for the Domoticz API
 
   Install via git clone:
 
-      $ git clone git@jirachi.tyneo.net:skauffmann/domoticz-js.git
-      $ cd domoticz-js
+      $ git clone https://github.com/aalwash/domoticz-api-wrapper.git 
+      $ cd domoticz-api-wrapper
       $ npm install
 
 ## Documentation
